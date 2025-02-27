@@ -24,6 +24,6 @@ To run the website locally, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/username/repository-name.git
+    git clone https://github.com/Rikoudoxfox/Anime website.git
     ```
 2. Open the `index.html` file
